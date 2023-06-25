@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stev01000101
-- 👀 I’m interested in Python/PowerShell/Java/JavaScript/CSS/HTML5
+- 👀 I’m interested in Python/PowerShell/Java/JavaScript/CSS/HTML5/C++
 - 🌱 I’m currently creating a portfolio, on GitHub, of my TAFENSWonline CIV Programming portfolio
 - 📫 How to reach me: me@stevenharrison.com.au
 
